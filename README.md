@@ -110,7 +110,7 @@ root.mainloop()
 
 ```
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Monoranjan Banik
 
@@ -126,4 +126,5 @@ If you like this project, don’t forget to ⭐️ the repository!
 * Export scan results to a CSV or log file
 
 * Add dark mode for the GUI
+
 
